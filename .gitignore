@@ -1,0 +1,8 @@
+*.exe
+test.py
+*.txt
+__pycache__/
+build/
+dist/
+venv/
+.idea/
